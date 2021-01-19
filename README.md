@@ -6,10 +6,6 @@ This project uses a recurrent neural network to train a model for the binary sen
 - Python 3
 - Tensorflow
 - Keras
-## Requirements
-- Python 3 
-- TensorFlow 2 
-- TensorFlow Datasets
 
 ## Instructions
 1. Install [Python 3](https://www.python.org/downloads/windows/) or later
