@@ -1,9 +1,8 @@
-# Sentiment Analysis of Movie Reviews
+# Movie Review Sentiment Analyzer
 ## Description
 This project uses a recurrent neural network to train a model for the binary sentiment analysis of movie reviews. The dataset used was an IMDB dataset of 25,000 highly polar movie reviews for training, and 25,000 for testing. The model's test accuracy and loss are recorded, and the user can input his own predictions for movie reviews. 
 
 ## Tech Stack
-- Python 3
 - Tensorflow
 - Keras
 
