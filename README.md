@@ -15,4 +15,4 @@ This project uses a recurrent neural network to train a model for the binary sen
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](/LICENSE) file for details
+This project is licensed under the MIT License - see the [LICENSE](/LICENSE) file for details
